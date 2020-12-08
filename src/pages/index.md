@@ -10,7 +10,7 @@ sections:
       science and machine learning. Love to think about music, philosophy and
       astronomy.
     actions:
-      - label: Get Started
+      - label: My Blogs
         url: /docs
         style: primary
   - section_id: features
