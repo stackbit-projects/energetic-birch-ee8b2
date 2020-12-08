@@ -6,8 +6,9 @@ sections:
     title: TZ's blog
     image: images/5.jpg
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Graduate student studying biology and chemistry. Interested in data
+      science and machine learning. Love to think about music, philosophy and
+      astronomy.
     actions:
       - label: Get Started
         url: /docs
