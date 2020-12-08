@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: TZ's blog
-    image: images/5.jpg
+    image: images/IMG_4183.jpeg
     content: >-
       Graduate student studying biology and chemistry. Interested in data
       science and machine learning. Love to think about music, philosophy and
